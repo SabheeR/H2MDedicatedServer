@@ -1,0 +1,24 @@
+- Install the H2M launcher onto the pc/vps at the default location it gives. Then run the launcher and you can set it to install the H2M files into your server folder.
+Ensure you go to the settings tab on it first to choose your download server, and to check the box if you want the MW2 Campaign Remastered custom maps.
+The total install of the h1 windows server and all of the H2M content totals to 66gb.
+
+- After installing H2M onto your server, drag user_scripts into the h2m-mod folder found in your game/server folder after installating H2M.
+
+- Currently inside the user_scripts folder I left a bots.gsc for auto spawning bots on your server. If you want bots on the server, simply include
+your server port in that gsc towards the bottom where I left some already there. For no bots on a server, simply do not list the port there, or remove
+the script entirely (or make your own)
+
+- The bat and cfg are blank default ones you can begin customizing your servers for.
+(The bat goes in the root of the server folder, and the cfg goes into the main folder found within the server folder.)
+
+- The cfg has notes and all our maps, so please use that one instead of any others you might have.
+(Such as the fact that the MW2CR maps do not support bots)
+
+- A proper guide may be given out later, so hopefully you know what you're doing for now
+
+
+
+
+
+(Please do not host custom mode servers such as prop hunt, all or nothing, infected, or drop zone, as these will come as official dlc to h2m.
+Gun game is currently in right now though and perfectly fine to use. We will soon have the map voting for you guys also)
